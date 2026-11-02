@@ -112,12 +112,12 @@ Flow uses a **100-contract stratified catalog** spanning **10 Market Days** (10 
 
 ## 🚀 Quick Start
 
-### 1. Download Demo & Set Up Environment
+### 1. Clone Repository & Set Up Environment
 
-To download only this demo without cloning the entire repository, use `giget`:
+Clone the repository:
 ```bash
-npx -y giget@latest gh+git:GoogleCloudPlatform/devrel-demos/agents/flow-security-agent-team-simulator flow-security-agent-team-simulator
-cd flow-security-agent-team-simulator
+git clone https://github.com/GoogleCloudLabs/flow-compute-sim.git
+cd flow-compute-sim
 ```
 
 Create and activate a virtual environment, then install dependencies:
